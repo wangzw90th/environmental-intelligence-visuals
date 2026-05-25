@@ -12,3 +12,11 @@ Topics include:
 - environmental intelligence
 - resilience and escalation pathways
 - monitoring dashboard concepts
+
+---
+
+## System Transition Monitoring
+
+Conceptual visualization illustrating how environmental and operational systems evolve through perturbation, transition, escalation, and recovery phases under uncertainty.
+
+![System Transition](system_transition_monitoring.png)
