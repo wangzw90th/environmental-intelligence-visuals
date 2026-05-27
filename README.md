@@ -20,3 +20,10 @@ Topics include:
 Conceptual visualization illustrating how environmental and operational systems evolve through perturbation, transition, escalation, and recovery phases under uncertainty.
 
 ![System Transition](system_transition_monitoring.png)
+
+## Dynamic Risk Evolution
+
+Illustrative framework showing how complex systems may evolve along multiple risk trajectories depending on uncertainty growth, external forcing, and adaptive responses.
+
+![Dynamic Risk Evolution](dynamic_risk_evolution.png)
+<img width="730" height="152" alt="image" src="https://github.com/user-attachments/assets/a8a7ec0e-1226-4458-ba83-77cf195680da" />
