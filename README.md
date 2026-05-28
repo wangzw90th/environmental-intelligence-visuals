@@ -26,3 +26,9 @@ Conceptual visualization illustrating how environmental and operational systems 
 Illustrative framework showing how complex systems may evolve along multiple risk trajectories depending on uncertainty growth, external forcing, and adaptive responses.
 
 ![Dynamic Risk Evolution](dynamic_risk_evolution.png)
+
+## Operational Risk Dashboard
+
+Conceptual monitoring dashboard illustrating interpretable indicators for environmental intelligence and operational risk assessment.
+
+![Operational Dashboard](operational_risk_dashboard.png)
